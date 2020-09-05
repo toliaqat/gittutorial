@@ -1,6 +1,7 @@
 Test
 
-This is local change.
+This is local change. Remote change:w
+
 
 This is a change from github site. It is committed and merged from there.
 
